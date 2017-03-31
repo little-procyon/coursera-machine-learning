@@ -1,2 +1,2 @@
-# coursera-machine-learning
+# coursera-machine-learning-ex1
 programming homework
